@@ -31,10 +31,11 @@ p{
 }
 
 /*Sections*/
-
-.colored-section{
-  background-color: #ff4c68;
+#title{
+  background-image: url("/images/backgroundtop.png");
+  background-size: cover;
   color: #fff;
+  padding-bottom: 50px;
 }
 
 .white-section{
@@ -110,7 +111,9 @@ p{
 
 #testimonials{
   background-color: #ef8172;
+  color: #fff;
 }
+
 
 .testimonial-text{
   font-size: 3rem;
@@ -128,6 +131,7 @@ p{
 #press{
   background-color: #ef8172;
   padding-bottom: 3%;
+  color: #fff;
 }
 
 .press-logos{
@@ -148,6 +152,14 @@ p{
 .pricing-column{
   padding: 3% 2%;
 }
+
+/*cta section*/
+
+#cta{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
 
 /*Footer section*/
 
