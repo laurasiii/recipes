@@ -157,6 +157,6 @@ p{
   .title-image{
     transform: rotate(0);
     width: auto;
-    position: relative;
+    position: static;
   }
 }
