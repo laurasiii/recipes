@@ -105,7 +105,7 @@ p{
 }
 
 .icon:hover{
-  color: #ff4c68;
+  color:#588137;
 }
 
 /*Testimonial Section*/
@@ -145,16 +145,18 @@ p{
 /*Pricing Section*/
 
 #pricing{
-  padding: 100px;
+  padding-top: 100px;
 }
 .price-text{
   font-size: 3rem;
   line-height: 1.5;
 }
 
-.pricing-column{
-  padding: 3% 2%;
+.pricing-title{
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
 }
+
 
 /*cta section*/
 
@@ -178,7 +180,7 @@ p{
   }
   .title-image{
     transform: rotate(0);
-    position: relative;
     width: auto;
+    position: relative;
   }
 }
