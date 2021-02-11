@@ -36,7 +36,7 @@ p{
   background-size: cover;
   position: relative;
   color: #fff;
-  padding-bottom: 200px;
+  padding-bottom: 60px;
 }
 
 .white-section{
@@ -100,7 +100,7 @@ p{
 
 
 .icon{
-  color: #ef8172;
+  color: #fdd129;
   margin-bottom: 1rem;
 }
 
@@ -129,7 +129,7 @@ p{
   margin: 20px;
 }
 
-/*Press section*/
+/*Press section
 
 #press{
   background-color: #ef8172;
@@ -140,7 +140,7 @@ p{
 .press-logos{
   width: 10%;
   margin: 20px 20px 50px;
-}
+}*/
 
 /*Pricing Section*/
 
@@ -172,13 +172,13 @@ p{
   margin: 20px;
 }
 
-@media (max-width: 990px){
+@media (max-width: 991px){
   #title{
     text-align: center;
   }
   .title-image{
     transform: rotate(0);
-    position: static;
+    position: relative;
     width: auto;
   }
 }
