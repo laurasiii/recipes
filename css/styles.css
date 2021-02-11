@@ -30,7 +30,7 @@ p{
 
 /*Sections*/
 #title{
-  background: url("/images/backgroundtop.png") no-repeat center;
+  background: url("../images/backgroundtop.png") no-repeat center;
   background-size: cover;
   position: relative;
   color: #fff;
@@ -104,7 +104,7 @@ p{
 
 /*Testimonial Section*/
 #testimonials{
-  background: url(/images/testimonials-background.png) no-repeat center;
+  background: url("../images/testimonials-background.png") no-repeat center;
   background-size: cover;
   position: relative;
   color: #fff;
@@ -139,7 +139,7 @@ p{
 
 /*cta section*/
 #cta{
-  background: url(/images/cta-background.png) no-repeat center;
+  background: url("../images/cta-background.png") no-repeat center;
   background-size: cover;
   position: relative;
   color: #fff;
