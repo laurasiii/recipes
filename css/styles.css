@@ -32,10 +32,11 @@ p{
 
 /*Sections*/
 #title{
-  background-image: url("/images/backgroundtop.png");
+  background: url("/images/backgroundtop.png") no-repeat center;
   background-size: cover;
+  position: relative;
   color: #fff;
-  padding-bottom: 50px;
+  padding-bottom: 200px;
 }
 
 .white-section{
